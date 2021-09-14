@@ -74,6 +74,7 @@ body {
 a {
  
   text-decoration: none;
+
 }
 
 .second-section-title {
@@ -185,4 +186,11 @@ margin-bottom: 40px;
     vertical-align: top;
     margin-top: 60px;
 
+}
+
+.footer-div-img {
+	display: inline-block;
+}
+.footer-img {
+	display: inline-block;
 }
