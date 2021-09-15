@@ -1,45 +1,73 @@
 .nav-logo {
-	color: red;
+	color: #FA6980;
 	display: inline-block;
 	margin-left: 20px;
-	margin-right: 92px;
+	margin-right: 100px;
+	vertical-align: middle;
+	font-family: 'Barlow';
+	font-weight: bolder;
+
 }
 
 .nav-li {
 	display: inline-block;
 	margin-right: 30px;
+	font-family: 'Barlow';
+	font-weight: bolder;
+}
+
+.nav-ul {
+	vertical-align: middle;
+}
+.nav-link {
+	color: #343638;
+
 }
 
 .navigation {
 	display: inline-block;
+	margin-left: 130px;
+
 }
 
 .header-wrapper {
-	height: 50px;
+	height: 60px;
 	position: fixed;
 	top: 0;
 	left: 0;	
 	background-color: #F6F8F9;
 	width: 100%;
 	z-index: 15;
+
 }
 
 
 .section-title {
 	font-weight: bold;
 	margin-bottom: 38px;
+	font-family: 'Barlow';
 }
 
 body {
 	background-color: #F6F8F9;
-	
-	
-
+    
 }
 
+.main-div {
+	width: 1160px;
+
+}
 .division {
 	display: inline-block;
 	width: 360px;
+	height: 350px;
+	background-color: white;
+	margin-right: 40px;
+}
+
+.division1 {
+    display: inline-block;
+    width: 360px;
 	height: 350px;
 	background-color: white;
 }
@@ -50,6 +78,7 @@ body {
 	margin-top: 65px;
 	margin-right: auto;
 	margin-left: auto;
+	font-family: 'Barlow';
 }
 
 .time {
@@ -59,8 +88,9 @@ body {
 
 .time-text {
 	color: #A6ADB4;
-    width: 50px;
+    width: 70px;
     display: inline-block;
+    font-family: 'Barlow';
 }
 
 .first-section {
@@ -80,7 +110,11 @@ a {
 .second-section-title {
 font-weight: bold;
 margin-bottom: 40px;
+font-family: 'Barlow';
 
+}
+.icon {
+	vertical-align: middle;
 }
 
 .second-section {
@@ -103,11 +137,14 @@ margin-bottom: 40px;
 	top: 40px;
 	left: 40px;
 	z-index: 10;
+	font-family: 'Barlow';
 }
 
 .img-div {
 	position: relative;
+
 }
+
 
 .section2-img {
 	margin-bottom: 40px;
@@ -171,6 +208,7 @@ margin-bottom: 40px;
 .footer-li {
     color: #CBD0D3;
     font-size: 13px;
+    font-family: 'Barlow';
 }
 
 .footer-div {
@@ -185,6 +223,7 @@ margin-bottom: 40px;
     font-size: 13px;
     vertical-align: top;
     margin-top: 60px;
+    font-family: 'Barlow';
 
 }
 
@@ -193,4 +232,13 @@ margin-bottom: 40px;
 }
 .footer-img {
 	display: inline-block;
+}
+
+.footer-logo-a {
+	color: white;
+	 font-family: 'Barlow';
+}
+
+.footer-a {
+	color: #CBD0D3;
 }

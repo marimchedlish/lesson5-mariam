@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-Black.eot');
+    src: url('Barlow-Black.eot?#iefix') format('embedded-opentype'),
+        url('Barlow-Black.woff2') format('woff2'),
+        url('Barlow-Black.woff') format('woff'),
+        url('Barlow-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-Light.eot');
+    src: url('Barlow-Light.eot?#iefix') format('embedded-opentype'),
+        url('Barlow-Light.woff2') format('woff2'),
+        url('Barlow-Light.woff') format('woff'),
+        url('Barlow-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
