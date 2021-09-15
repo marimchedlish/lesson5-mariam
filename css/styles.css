@@ -6,6 +6,7 @@
 	vertical-align: middle;
 	font-family: 'Barlow';
 	font-weight: bolder;
+	margin-top: 10px;
 
 }
 
@@ -14,10 +15,12 @@
 	margin-right: 30px;
 	font-family: 'Barlow';
 	font-weight: bolder;
+	margin-top: 10px;
 }
 
 .nav-ul {
 	vertical-align: middle;
+	margin-top: 10px;
 }
 .nav-link {
 	color: #343638;
@@ -218,20 +221,23 @@ font-family: 'Barlow';
 
 .footer-text {
 	display: inline-block;
-	margin-right: 175px;
 	color: #CBD0D3;
     font-size: 13px;
     vertical-align: top;
     margin-top: 60px;
     font-family: 'Barlow';
+    width: 280px;
 
 }
 
 .footer-div-img {
 	display: inline-block;
+	width: 150px;
+	margin-top: 60px;
 }
 .footer-img {
 	display: inline-block;
+	margin-right: 15px;
 }
 
 .footer-logo-a {
