@@ -128,7 +128,8 @@ font-family: 'Barlow';
 	margin-right: auto;
 }
 .img {
-	position: relative;
+	
+	
 	z-index: 10;
 
 }
